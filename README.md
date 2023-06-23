@@ -2,4 +2,4 @@
 
 `Just get your discord token`
 `Paste into console`
->__<
+a__a
